@@ -1,0 +1,10 @@
+# Binaries & Object Files
+*.o
+maze
+*.exe
+*.out
+
+# Editor & OS files
+.vscode/
+.DS_Store
+Thumbs.db
